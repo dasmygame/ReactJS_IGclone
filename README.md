@@ -1,6 +1,6 @@
 
 # ReactJS_IGclone
-A reactive single page Instagram Clone
+A reactJS Instagram Clone
 
 ## Description
 The following app is a clone of the popular Social Media platform Instagram. 
