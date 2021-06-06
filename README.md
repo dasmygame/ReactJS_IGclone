@@ -15,7 +15,7 @@ Material Design is an Android-oriented design language created by Google, suppor
 
 ### Disclaimer 
 
-There are some issues regarding the uploading of comments to the firebase DataBase. Feel free to debug and fix the issues and reach back to me. :)
+There are some issues regarding the uploading of comments to the firebase DataBase. Currently debugging, let me know if you see the issue.
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
