@@ -1,8 +1,8 @@
 
-# React-Instagram-Clone
+# ReactJS_IGclone
 A reactive single page Instagram Clone
 
-## Basic Desc
+## Description
 The following app is a clone of the popular Social Media platform Instagram. 
 
 This App uses firebase as the primary DataBase Tool. 
